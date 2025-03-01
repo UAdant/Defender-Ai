@@ -4,7 +4,7 @@ import './App.css';
 const App = () => {
   return (
     <div className="container">
-      <h1 className="header">Чим ми можемо Вам допомогти?</h1>
+      <p className="header">Чим ми можемо Вам допомогти?</p>
       <div className="search-container">
         <input type="text" className="search-input" placeholder="Запитайте щось..." />
         <div className="icons">
